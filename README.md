@@ -3,5 +3,7 @@
 
 I like malware, and thus I try to develop it :) Not very good at that though :(
 
-- 🌱 I’m currently learning Java (the agony), Shell, and Go. 
-- ⭐ I also plan to maintain a few AUR packages :)
+- 🌱 I’m currently learning Java (the agony), Shell, and Go.
+- ⭐ I'm an active student in the FIRST Tech Challenge, which is where the Java comes from :P
+- 😺 I LOVE coding in Python, with most of my projects being games, Discord bots and others
+- 😺 I'm also working on a game!
