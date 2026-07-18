@@ -3,4 +3,4 @@
 
 I like good programs, and thus I try to develop it :) Not very good at that though :(
 
-_**check out my website for more! hailfire.srht.site**_
+_**check out my [sourcehut!](git.sr.ht/~hailfire)**_
